@@ -1,0 +1,1 @@
+La instrucción que inicia o de inicio del algoritmo

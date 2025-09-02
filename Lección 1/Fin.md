@@ -1,0 +1,1 @@
+Resultado final después de ejecutar la secuencia de pasos o instrucciones

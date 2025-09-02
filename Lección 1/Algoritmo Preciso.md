@@ -1,0 +1,1 @@
+Debe ser secuencial y tener ordenados los pasos a seguir en el algoritmo
