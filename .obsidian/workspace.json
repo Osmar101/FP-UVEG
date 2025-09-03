@@ -11,10 +11,14 @@
             "id": "0ae5d939cdc0cecf",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Leccion 2/Programa de Computo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Programa de Computo"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Leccion 2/Programa de Computo.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Programa de Computo"
             }
           },
           {
@@ -177,6 +182,8 @@
   },
   "active": "0ae5d939cdc0cecf",
   "lastOpenFiles": [
+    "Leccion 2/Programa de Computo.md",
+    "Leccion 2",
     "Lección 1/Naturalidad.md",
     "Lección 1/Lenguaje de Programación.md",
     "Lección 1/Abstracción.md",
