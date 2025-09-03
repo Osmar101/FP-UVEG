@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leccion 2/Instrucciones.md",
+                "file": "Leccion 3/Paradigma de Programación.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instrucciones"
+              "title": "Paradigma de Programación"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "59516fec173a0c36",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leccion 2/Instrucciones.md",
+                "file": "Leccion 3/Paradigma de Programación.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Instrucciones"
+              "title": "Outline of Paradigma de Programación"
             }
           },
           {
@@ -180,9 +181,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "868e1509d7dcbdf9",
+  "active": "5731ead32f60a2e4",
   "lastOpenFiles": [
     "Leccion 2/Instrucciones.md",
+    "Leccion 3/Paradigma de Programación.md",
+    "Leccion 3",
     "Leccion 2/Bifurcacion.md",
     "Leccion 2/Escritura.md",
     "Leccion 2/Lectura.md",
@@ -209,7 +212,6 @@
     "Lección 1/Inicio.md",
     "Lección 1/Lenguaje de Maquina.md",
     "Lección 1/Compilador.md",
-    "Lección 1/Lenguaje Ensamblador.md",
     "Pasted image 20250903100135.png",
     "Lección 1"
   ]
