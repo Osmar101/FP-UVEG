@@ -1,0 +1,1 @@
+capacidad de comprender y emplear operaciones y estructuras complejas, a partir de sus elementos fundamentales, sin poner demasiado atención a los detalles.

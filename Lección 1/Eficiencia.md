@@ -1,0 +1,1 @@
+El programa debe ejecutarse de forma eficaz de forma que no tomen mucho tiempo en reaccionar ni necesiten mucho espacio en la memoria

@@ -17,3 +17,6 @@ Un algoritmo debe tener tres propiedades
 
 Y se compone de las siguientes **[[Partes de un Algoritmo]]**
 
+Normalmente para representar un algoritmo se usa un [[Diagrama de Flujo]] o [[Pseudocodigo]]
+
+Cuando queremos darle esas instrucciones al equipo es necesario traducirlo a un lenguaje que la maquina puede interpretar esto se llama [[Lenguaje de Programación]]  y

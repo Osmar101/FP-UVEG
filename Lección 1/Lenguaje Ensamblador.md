@@ -1,0 +1,1 @@
+ El **ensamblador** traduce código escrito en **lenguaje ensamblador**, que es un lenguaje de bajo nivel compuesto por mnemónicos que representan directamente instrucciones máquina. La traducción del ensamblador a código máquina suele ser casi uno a uno, lo que da mayor control sobre cada instrucción generada.

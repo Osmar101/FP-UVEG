@@ -1,0 +1,1 @@
+Se debera escribir de acuerdo con los conceptos de programación estructurada

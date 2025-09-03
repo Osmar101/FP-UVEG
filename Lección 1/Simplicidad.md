@@ -1,0 +1,1 @@
+Se debe emplear una lenguaje sencillo que facilite comprension, instalación y rendimiento
