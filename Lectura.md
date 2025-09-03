@@ -1,0 +1,1 @@
+Toma valores desde un dispositivo de entrada y los almacena en una memoria

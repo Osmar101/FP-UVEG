@@ -1,0 +1,1 @@
+Envia datos a un dispositivo de salida

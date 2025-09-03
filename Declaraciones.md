@@ -1,0 +1,1 @@
+Contiene constantes, tipos de datos y variables
