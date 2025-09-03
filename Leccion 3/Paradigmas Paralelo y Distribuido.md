@@ -1,0 +1,1 @@
+Modelo donde el programa no se ejecuta con una sola unidad de computo, si no que emplea distintas unidades de calculo (reales en casos paralelos y distribuidos) las cuales pueden ser procesadores  o computadoras

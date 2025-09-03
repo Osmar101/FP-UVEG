@@ -1,0 +1,1 @@
+Modelo donde un programa ejecuta un conjubto de operaciones basadas en eventos y estados de dichos eventos. Cada evento indica su eecución y efecto sobre el programa

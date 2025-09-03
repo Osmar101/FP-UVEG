@@ -1,0 +1,1 @@
+Es un caso particular de paradigma imperativo, el cual ejecuta un conjunto o un bloque de instrucciones

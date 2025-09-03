@@ -1,0 +1,1 @@
+Modelo basado en objetos que usa una estructura de clases y objetos que emula un modelo del mundo real, donde los objetos realizan acciones e interactuan entre distintos objetos

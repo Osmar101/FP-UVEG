@@ -1,0 +1,1 @@
+Todo se describe como una funcion

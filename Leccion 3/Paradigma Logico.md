@@ -1,0 +1,1 @@
+todo se escribe como un predicado logico
