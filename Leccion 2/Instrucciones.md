@@ -8,4 +8,3 @@ Algunas de estas instrucciones basicas son:
 * [[Escritura]]
 * [[Bifurcacion]]
 
-
